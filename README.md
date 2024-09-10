@@ -4,6 +4,8 @@
 
 - [**2023**](https://github.com/Code4Delphi/embarcadero-conference/tree/master/2023) - Code4D-Wizard e OTA - Torne a sua IDE Delphi mais completa e produtiva
 
+- [**2024**](https://github.com/Code4Delphi/embarcadero-conference/tree/master/2024) - Delphi AI Developer (Copilot): Inteligência Artificial integrada ao IDE do Delphi
+
 <br/>
 <br/>
 
