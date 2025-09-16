@@ -6,6 +6,8 @@
 
 - [**2024**](https://github.com/Code4Delphi/embarcadero-conference/tree/master/2024) - Delphi AI Developer (Copilot): Inteligência Artificial integrada ao IDE do Delphi
 
+- [**2025**](https://github.com/Code4Delphi/multicamadas) - Uma Base de Código, Três Frentes: Delphi Desktop, Mobile e Web. Do Monolito à Arquitetura em Camadas
+
 <br/>
 <br/>
 
