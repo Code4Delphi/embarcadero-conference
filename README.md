@@ -8,6 +8,8 @@
 
 - [**2025**](https://github.com/Code4Delphi/multicamadas) - Uma Base de Código, Três Frentes: Delphi Desktop, Mobile e Web. Do Monolito à Arquitetura em Camadas
 
+- [2026](https://code4delphi.com.br/blog/slides-econ26/) - IA além dos prompts: MCP, Tool Calling, Subagentes, Skills, Slash Commands, SDD, Harness e outros
+
 <br/>
 
 ## 📞 Contatos
